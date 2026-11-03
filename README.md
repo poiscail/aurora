@@ -1,6 +1,8 @@
 # ✦ Aurora
 
-Tableau de bord élégant pour **Windows 10 et 11** : horloge, état du système (processeur, mémoire, disque) et raccourcis rapides, sur un fond « aurore » animé.
+Tableau de bord élégant pour **Windows 10 et 11** : horloge, anneaux processeur / mémoire / disque et raccourcis rapides, sur fond Mica (Windows 11) teinté « aurore ».
+
+Ultra léger : ~0,1 % d'un cœur au repos, rien ne tourne quand la fenêtre est réduite.
 
 100 % natif (PowerShell + WPF) : **aucune installation**, rien à télécharger.
 
